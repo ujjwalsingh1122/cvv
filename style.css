@@ -1,0 +1,150 @@
+.top-container{
+  padding-top: 280px;
+  background-color: #e4f5f9;
+}
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0px;
+  text-align: center;
+  font-size: 170%;
+}
+
+h1 {
+  font-size: 5.5rem; /*100% = 16px = 1em*/
+  font-family: 'Sacramento', cursive;
+  margin-bottom: 0;
+  margin-top: 0;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+p {}
+
+.cloud-second {
+  position: absolute;
+  top: 500px;
+  right: 1300px;
+}
+
+.first-cloud {
+  position: absolute;
+  left: 1200px;
+  top: 100px;
+}
+.skill-row{
+  margin: 100px auto 290px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.skill-row2{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+.personal-photo{
+
+}
+.middle-container{
+
+}
+.bottom-container{
+  background-color: #66bfbf;
+  color: #11999e;
+  padding-top: 10%;
+padding-bottom: 5%;
+
+}
+.first-para{
+  font-size:2.5rem;
+  margin-top:0;
+  padding-bottom: 52px;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.skill-first-img{
+margin-right: 30px;
+  float: left;
+  width: 25%;
+}
+.skill-second-img{
+  width: 25%;
+  float: right;
+  margin-left: : 30px;
+
+}
+/* .design-paragrapgh{
+  clear: left;   /*it is used to clear the left side of the paragrapgh, you can just enable it and see the difference*/
+/*clear is somewhat like antifloat*/
+hr{border-style: none;
+  border-top: dotted;
+  border-color: #EAF6F6;
+border-width:15px;
+width: 10%;
+
+}
+.BUTTON_ENL {
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #5D91E5);
+   background-image: -moz-linear-gradient(top, #66BFBF, #5D91E5);
+   background-image: -ms-linear-gradient(top, #66BFBF, #5D91E5);
+   background-image: -o-linear-gradient(top, #66BFBF, #5D91E5);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #5D91E5);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Brush Script MT;
+   font-size: 29px;
+   font-weight: 100;
+   padding: 26px;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 100px;
+}
+
+.BUTTON_ENL:hover {
+   border: solid #337FED 1px;
+   background: #0BF3F3;
+   background-image: -webkit-linear-gradient(top, #0BF3F3, #3D94F6);
+   background-image: -moz-linear-gradient(top, #0BF3F3, #3D94F6);
+   background-image: -ms-linear-gradient(top, #0BF3F3, #3D94F6);
+   background-image: -o-linear-gradient(top, #0BF3F3, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #0BF3F3, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.footer-link{
+  padding:20px;
+  text-decoration: none;
+}
+.last-para{
+  color: #eaf6f6;
+}
